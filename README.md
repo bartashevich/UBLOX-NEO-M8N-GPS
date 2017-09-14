@@ -1,6 +1,6 @@
 # UBLOX NEO M8N GPS with COMPASS
 
-![](https://www.dhresource.com/0x0s/f2-albu-g4-M01-E8-88-rBVaEVcMrpWAWpdBAATLcGcRUCY832.jpg/hot-new-ublox-neo-m8n-flight-controller-gps.jpg)
+![](https://github.com/bartashevich/Documentation/blob/master/ublox-gps/ublox-gps.jpg)
 
 This is simples guide for using UBLOX NEO M8N GPS module with Raspberry Pi.
 
@@ -10,7 +10,7 @@ This is simples guide for using UBLOX NEO M8N GPS module with Raspberry Pi.
  - Jumper cables
 
 # How to connect:
-![alt text](http://notepad.buygames.pt/rpi_drone_pinout.jpg)
+![alt text](https://github.com/bartashevich/Documentation/blob/master/ublox-gps/ublox-pinout.jpg)
 
  - RED      >   3.3V
  - BLACK    >   GND
