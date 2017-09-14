@@ -74,8 +74,8 @@ GGA          Global Positioning System Fix Data
 *47          the checksum data, always begins with *
  ```
 
-You can check meaning of all of these value in the manual:
-> [link]
+**You can check meaning of all of these value in the manual:**
+> https://github.com/bartashevich/Documentation/blob/master/ublox-gps/gps_manual.pdf
 
 # File compilation
 ```
