@@ -1,6 +1,6 @@
 # UBLOX NEO M8N GPS with COMPASS
 
-![](https://github.com/bartashevich/Documentation/blob/master/ublox-gps/ublox-gps.jpg)
+![](https://user-images.githubusercontent.com/9809095/74649219-0d0aef80-5177-11ea-8070-70fc26bf44aa.jpg)
 
 This is simples guide for using UBLOX NEO M8N GPS module with Raspberry Pi.
 
@@ -10,7 +10,7 @@ This is simples guide for using UBLOX NEO M8N GPS module with Raspberry Pi.
  - Jumper cables
 
 # How to connect:
-![alt text](https://github.com/bartashevich/Documentation/blob/master/ublox-gps/ublox-pinout.jpg)
+![alt text](https://user-images.githubusercontent.com/9809095/74649225-0ed4b300-5177-11ea-8746-c2d1c5fcffaa.jpg)
 
  - RED      >   3.3V
  - BLACK    >   GND
@@ -75,7 +75,7 @@ GGA          Global Positioning System Fix Data
  ```
 
 **You can check meaning of all of these value in the manual:**
-> https://github.com/bartashevich/Documentation/blob/master/ublox-gps/gps_manual.pdf
+> https://github.com/bartashevich/UBLOX-NEO-M8N-GPS/files/4213373/gps_manual.pdf
 
 # File compilation
 ```
